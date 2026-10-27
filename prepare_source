@@ -1,0 +1,4 @@
+version_orig=1.53.0
+version="$version_orig-1"
+git_src -b "debian/$version" "https://salsa.debian.org/debian/libuv1.git"
+version_suffix=gl0~bp2150
